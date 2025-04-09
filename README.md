@@ -36,7 +36,7 @@ This toolkit supports the following computer-aided review process:
    Use the `Remove Incomplete Data` module to remove entries missing key metadata.
 
 5. **Domain Keyword Filtering**  
-   Run the `Remove Irrelevant Papers` scripts (focused on HAD or takeover terms) to exclude articles that do not match your research scope.
+   Run the `Remove Irrelevant Papers` scripts to exclude articles that do not match your research scope.
 
 6. **Systematic Random Sampling**  
    Use `Sampling Excel`, `Systematic Sampling`, and `Sample Size Calculator` to validate exclusion accuracy with statistically sound methods.
