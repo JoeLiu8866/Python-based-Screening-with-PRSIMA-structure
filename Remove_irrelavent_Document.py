@@ -6,8 +6,9 @@ file_path = input("Please enter the path of the Excel file: ")
 # Load the Excel file
 df = pd.read_excel(file_path)
 
-# Define keywords related to automated driving
-keywords = ['automated driving', 'autonomous', 'self driving', 'driverless', 'robotic', 'automated']
+# Define keywords related to your selection
+keywords = []
+# e.g. keywords = ['automated driving', 'autonomous', 'self driving', 'driverless', 'robotic', 'automated']
 
 # Convert keywords to lowercase
 keywords = [keyword.lower() for keyword in keywords]
