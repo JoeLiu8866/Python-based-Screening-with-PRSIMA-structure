@@ -14,7 +14,7 @@ The toolkit consists of the following components:
 | **Bib to Excel** | Parses `.bib` files and formats metadata (title, author, year, venue, abstract, link) into styled Excel sheets. |
 | **Excel Deduplication** | Merges multiple Excel files and removes duplicate entries. |
 | **Remove Incomplete Data** | Filters out entries missing essential fields like title, year, author, or abstract. |
-| **Remove Irrelevant Papers (Automated Driving)** | Filters articles based on specific keywords related to Automated Driving (AD) or Highly Automated Driving (HAD). |
+| **Remove Irrelevant Papers** | Filters articles based on specific keywords related to your selection. |
 | **Sampling & Validation** | Supports systematic random sampling and calculates optimal sample size using Neyman’s formula for screening validation. |
 
 ---
