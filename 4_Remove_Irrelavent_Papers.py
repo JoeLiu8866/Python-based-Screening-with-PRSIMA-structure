@@ -9,6 +9,8 @@ df = pd.read_excel(file_path)
 # Define keywords related to your selection
 keywords = []
 # e.g. keywords = ['automated driving', 'autonomous', 'self driving', 'driverless', 'robotic', 'automated']
+#      keywords = ['highly', 'sae l4', 'sae level 4']
+#      keywords = ['takeover', 'take over', 'take-over', 'transfer of control', 'transition of control']
 
 # Convert keywords to lowercase
 keywords = [keyword.lower() for keyword in keywords]
